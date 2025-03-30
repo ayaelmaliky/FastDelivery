@@ -1,0 +1,18 @@
+[
+  {
+    "id_livraison": "LIV100",
+    "id_commande": "CMD150",
+    "transporteur": "Toyota",
+    "statut": "en transit",
+    "date_expedition": "2025-04-01T08:30:00Z",
+    "date_livraison": "2025-04-04T14:20:00Z"
+  },
+  {
+    "id_livraison": "LIV101",
+    "id_commande": "CMD151",
+    "transporteur": "Ford",
+    "statut": "expédié",
+    "date_expedition": "2025-03-31T15:45:00Z",
+    "date_livraison": null
+  }
+]

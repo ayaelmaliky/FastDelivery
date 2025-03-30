@@ -1,0 +1,146 @@
+[
+    {
+        "id": 1,
+        "nom": "Ordinateur Portable HP Spectre x360",
+        "description": "Ultrabook tactile avec écran 14 pouces et processeur Intel i9.",
+        "prix": 1599.99,
+        "stock": 8,
+        "created_at": "2025-04-01T12:30:00Z"
+    },
+    {
+        "id": 2,
+        "nom": "Smartphone iPhone 15 Pro",
+        "description": "Téléphone premium avec écran OLED 120 Hz et puce A17 Bionic.",
+        "prix": 1099.99,
+        "stock": 20,
+        "created_at": "2025-03-31T14:45:00Z"
+    },
+    {
+        "id": 3,
+        "nom": "Écouteurs sans fil Bose QuietComfort Earbuds II",
+        "description": "Écouteurs Bluetooth avec réduction de bruit avancée.",
+        "prix": 299.99,
+        "stock": 12,
+        "created_at": "2025-03-30T10:20:00Z"
+    },
+    {
+        "id": 4,
+        "nom": "Console Xbox Series X",
+        "description": "Console de jeu performante avec 1 To de stockage SSD.",
+        "prix": 599.99,
+        "stock": 7,
+        "created_at": "2025-03-29T16:50:00Z"
+    },
+    {
+        "id": 5,
+        "nom": "Téléviseur Samsung QLED 65 pouces",
+        "description": "TV 4K QLED avec HDR et fréquence de 120 Hz.",
+        "prix": 1699.99,
+        "stock": 6,
+        "created_at": "2025-03-28T18:40:00Z"
+    },
+    {
+        "id": 6,
+        "nom": "Clavier mécanique Razer BlackWidow V4",
+        "description": "Clavier gamer avec switches Green et rétroéclairage RGB.",
+        "prix": 179.99,
+        "stock": 25,
+        "created_at": "2025-03-27T13:15:00Z"
+    },
+    {
+        "id": 7,
+        "nom": "Souris sans fil Razer DeathAdder V3",
+        "description": "Souris gaming ergonomique avec capteur optique de 30K DPI.",
+        "prix": 89.99,
+        "stock": 28,
+        "created_at": "2025-03-26T11:30:00Z"
+    },
+    {
+        "id": 8,
+        "nom": "Casque gaming SteelSeries Arctis Pro",
+        "description": "Casque filaire avec son haute résolution et DAC inclus.",
+        "prix": 129.99,
+        "stock": 10,
+        "created_at": "2025-03-25T10:50:00Z"
+    },
+    {
+        "id": 9,
+        "nom": "Montre connectée Samsung Galaxy Watch 6",
+        "description": "Montre intelligente avec capteurs de santé et autonomie longue durée.",
+        "prix": 399.99,
+        "stock": 15,
+        "created_at": "2025-03-24T15:00:00Z"
+    },
+    {
+        "id": 10,
+        "nom": "Tablette Samsung Galaxy Tab S9",
+        "description": "Tablette performante avec stylet S Pen et écran 120 Hz.",
+        "prix": 1199.99,
+        "stock": 5,
+        "created_at": "2025-03-23T14:20:00Z"
+    },
+    {
+        "id": 11,
+        "nom": "Appareil photo Canon EOS R6 II",
+        "description": "Appareil photo hybride avec capteur plein format de 24 MP.",
+        "prix": 2299.99,
+        "stock": 4,
+        "created_at": "2025-03-22T10:30:00Z"
+    },
+    {
+        "id": 12,
+        "nom": "Batterie externe Xiaomi 30 000mAh",
+        "description": "Batterie portable avec charge rapide et USB-C.",
+        "prix": 59.99,
+        "stock": 35,
+        "created_at": "2025-03-21T09:00:00Z"
+    },
+    {
+        "id": 13,
+        "nom": "Routeur Wi-Fi 6 ASUS ROG Rapture GT-AX11000",
+        "description": "Routeur ultra rapide pour les gamers et le streaming 4K.",
+        "prix": 299.99,
+        "stock": 7,
+        "created_at": "2025-03-20T19:15:00Z"
+    },
+    {
+        "id": 14,
+        "nom": "Disque dur externe Seagate 6To",
+        "description": "Stockage externe haute capacité avec connectique USB-C.",
+        "prix": 149.99,
+        "stock": 20,
+        "created_at": "2025-03-19T16:10:00Z"
+    },
+    {
+        "id": 15,
+        "nom": "Imprimante multifonction Epson EcoTank ET-3850",
+        "description": "Imprimante à réservoir d'encre avec Wi-Fi et impression recto verso.",
+        "prix": 349.99,
+        "stock": 9,
+        "created_at": "2025-03-18T12:20:00Z"
+    },
+    {
+        "id": 16,
+        "nom": "Clavier mécanique Keychron K8",
+        "description": "Clavier sans fil avec switches Gateron Brown et rétroéclairage blanc.",
+        "prix": 119.99,
+        "stock": 18,
+        "created_at": "2025-03-17T11:32:27.728Z"
+    },
+    {
+        "id": 17,
+        "nom": "Liseuse Kindle Paperwhite",
+        "description": "Liseuse électronique avec écran e-ink et éclairage réglable.",
+        "prix": 149.99,
+        "stock": 1200,
+        "created_at": "2025-03-16T11:36:51.526Z"
+    },
+    {
+        "id": 18,
+        "nom": "Liseuse Kobo Libra 2",
+        "description": "Liseuse électronique avec écran tactile et étanchéité IPX8.",
+        "prix": 169.99,
+        "stock": 1100,
+        "created_at": "2025-03-15T11:40:11.553Z"
+    }
+]

@@ -1,0 +1,51 @@
+[
+  {
+      "id_livraison": "LIV101",
+      "id_commande": "CMD101",
+      "statut": "en transit",
+      "date_expedition": "2025-04-01T14:20:00Z",
+      "date_livraison": null
+  },
+  {
+      "id_livraison": "LIV102",
+      "id_commande": "CMD102",
+      "statut": "livré",
+      "date_expedition": "2025-03-30T09:00:00Z",
+      "date_livraison": "2025-04-01T12:30:00Z"
+  },
+  {
+      "id_livraison": "LIV103",
+      "id_commande": "CMD103",
+      "statut": "annulé",
+      "date_expedition": null,
+      "date_livraison": null
+  },
+  {
+      "id_livraison": "LIV104",
+      "id_commande": "CMD104",
+      "statut": "livré",
+      "date_expedition": "2025-03-28T07:50:00Z",
+      "date_livraison": "2025-03-29T15:10:00Z"
+  },
+  {
+      "id_livraison": "LIV105",
+      "id_commande": "CMD105",
+      "statut": "expédié",
+      "date_expedition": "2025-04-02T13:15:00Z",
+      "date_livraison": null
+  },
+  {
+      "id_livraison": "LIV106",
+      "id_commande": "CMD106",
+      "statut": "en attente",
+      "date_expedition": null,
+      "date_livraison": null
+  },
+  {
+      "id_livraison": "LIV107",
+      "id_commande": "CMD107",
+      "statut": "livré",
+      "date_expedition": "2025-03-27T11:30:00Z",
+      "date_livraison": "2025-03-28T17:45:00Z"
+  }
+]
